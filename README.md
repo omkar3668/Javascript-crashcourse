@@ -1,0 +1,2 @@
+# Javascript-crashcourse
+practice purpose
